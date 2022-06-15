@@ -1,7 +1,3 @@
----
-permalink: /about/
----
-
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
