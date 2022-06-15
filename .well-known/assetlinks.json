@@ -6,4 +6,13 @@
     "sha256_cert_fingerprints":
     ["33:A1:B1:86:E0:06:96:A5:9A:B7:3C:8B:C6:08:93:81:7A:8C:50:79:B7:33:64:F8:D6:6C:D1:B4:80:1D:CF:16"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "au.com.powershopVPP",
+    "sha256_cert_fingerprints":
+    ["2A:56:7A:BD:60:F9:4A:19:6E:B3:FB:06:E7:5D:37:B7:D8:42:E6:5B:33:7F:72:3B:8A:BD:1F:DA:CF:F2:EE:1C"]
+  }
 }]
